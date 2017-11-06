@@ -1,4 +1,4 @@
-https://www.authorea.com/users/90123/articles/211121-workflows-and-components-of-bioimage-analysis-the-neubias-concept
+[![DOI](https://zenodo.org/badge/109701172.svg)](https://zenodo.org/badge/latestdoi/109701172)
 
 By Kota Miura, Perrine Paul-Gilloteaux, Sébastien Tosi, Julien Colombelli
 
