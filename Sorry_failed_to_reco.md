@@ -1,1 +1,0 @@
-Sorry, failed to recognize the main LaTeX source file.
